@@ -1,6 +1,6 @@
 # gemastik-landuse-transferlearning
 
-3 different pre-trained model employed for transfer learning:
+3 different pre-trained models employed for transfer learning:
 - VGG16
 - VGG19
 - ResNet50
